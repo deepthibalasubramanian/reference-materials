@@ -14,3 +14,9 @@ https://www.ischool.berkeley.edu/news/2024/hany-farid-unveils-new-deepfake-detec
 OpenAI: 98.8% accuracy in DALL-E generated fakes:
 https://www.nytimes.com/2024/05/07/technology/openai-deepfake-detector.html
 
+DFAD challenge:
+https://www.dfad.unimore.it/
+
+Awesome DF detection: GitHub repo:
+https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection
+
