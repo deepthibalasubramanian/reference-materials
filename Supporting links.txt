@@ -3,6 +3,8 @@ Innovative solutions unveiled at the Deepfake Detection Challenge Showcase
 
 https://paperswithcode.com/task/deepfake-detection
 
+https://www.sciencedirect.com/science/article/pii/S0167865524000990
+
 https://www.sciencedirect.com/science/article/abs/pii/S104732032400049X
 
 Northwestern university: Deepfake detection tool:
