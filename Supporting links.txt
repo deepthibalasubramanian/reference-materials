@@ -1,4 +1,4 @@
-News: 30-7-24 (UK)
+ News: 30-7-24 (UK)
 Innovative solutions unveiled at the Deepfake Detection Challenge Showcase 
 
 https://paperswithcode.com/task/deepfake-detection
@@ -8,6 +8,6 @@ https://www.sciencedirect.com/science/article/abs/pii/S104732032400049X
 Northwestern university: Deepfake detection tool:
 https://www.mccormick.northwestern.edu/news/articles/2024/07/deepfake-detection-system-is-now-live/
 
-New Deepfake detection company by Harry Farid:
+New Deepfake detection company by Harry Farid (Prof @ Berkeley):
 https://www.ischool.berkeley.edu/news/2024/hany-farid-unveils-new-deepfake-detection-company-getreal-labs
 
