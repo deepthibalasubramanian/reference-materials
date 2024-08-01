@@ -1,5 +1,8 @@
- News: 30-7-24 (UK)
+News: 30-7-24 (UK)
 Innovative solutions unveiled at the Deepfake Detection Challenge Showcase 
+
+University of Buffalo: Less bias in DF detection
+https://www.buffalo.edu/news/releases/2024/01/new-deepfake-detector-designed-to-less-biased.html
 
 https://paperswithcode.com/task/deepfake-detection
 
