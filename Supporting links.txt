@@ -1,3 +1,6 @@
+News: 30-7-24 (UK)
+Innovative solutions unveiled at the Deepfake Detection Challenge Showcase 
+
 https://paperswithcode.com/task/deepfake-detection
 
 https://www.sciencedirect.com/science/article/abs/pii/S104732032400049X
