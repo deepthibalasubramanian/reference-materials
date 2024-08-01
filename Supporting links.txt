@@ -20,3 +20,6 @@ https://www.dfad.unimore.it/
 Awesome DF detection: GitHub repo:
 https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection
 
+Singfake challenge:
+https://challenge.singfake.org/
+
