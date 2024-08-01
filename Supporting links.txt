@@ -8,3 +8,6 @@ https://www.sciencedirect.com/science/article/abs/pii/S104732032400049X
 Northwestern university: Deepfake detection tool:
 https://www.mccormick.northwestern.edu/news/articles/2024/07/deepfake-detection-system-is-now-live/
 
+New Deepfake detection company by Harry Farid:
+https://www.ischool.berkeley.edu/news/2024/hany-farid-unveils-new-deepfake-detection-company-getreal-labs
+
