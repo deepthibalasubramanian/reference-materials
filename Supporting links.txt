@@ -11,3 +11,6 @@ https://www.mccormick.northwestern.edu/news/articles/2024/07/deepfake-detection-
 New Deepfake detection company by Harry Farid (Prof @ Berkeley):
 https://www.ischool.berkeley.edu/news/2024/hany-farid-unveils-new-deepfake-detection-company-getreal-labs
 
+OpenAI: 98.8% accuracy in DALL-E generated fakes:
+https://www.nytimes.com/2024/05/07/technology/openai-deepfake-detector.html
+
