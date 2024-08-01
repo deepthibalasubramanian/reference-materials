@@ -30,3 +30,4 @@ https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection
 Singfake challenge:
 https://challenge.singfake.org/
 
+https://www.mdpi.com/2079-9292/13/3/585
